@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.transaction-table-rows-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  width: 100%;
+}
+.delete-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  height: 30px;
+}
+.delete-icon {
+  height: 100%;
+}
